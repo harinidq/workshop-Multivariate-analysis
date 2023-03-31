@@ -36,7 +36,7 @@ Save the final data set into the file.
 2)Numerical & Categorical(Bar plot,Box plot,Dist plot)
 ```
 
-#Code
+# Code
 Developed by : Harini.M.D
 Registration Number : 2122222300043
 ```
@@ -67,7 +67,7 @@ df.corr()
 ![image](https://user-images.githubusercontent.com/113497680/229036163-31c25133-d6b3-4024-910c-3d8de5c594a2.png)
 # Numerical & Categorical(Bar plot)
 ![image](https://user-images.githubusercontent.com/113497680/229036259-3911e116-61c2-44e4-8ba8-b13c41587d86.png)
-#Non-Graphical method(correlation)
+# Non-Graphical method(correlation)
 ![image](https://user-images.githubusercontent.com/113497680/229036357-def3dd3f-8de4-46d0-9477-21a79b660638.png)
 
 # Result
